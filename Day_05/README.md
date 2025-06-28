@@ -1,4 +1,4 @@
-# Day 05 ✅ Solved 6 Array Problems (2 Easy, 3 Medium, 1 Hard)
+# Day 05 ✅ Solved 6 Array (Matrix) Problems (2 Easy, 3 Medium, 1 Hard)
 
 ## ✅ Leetcode Problems:
 1. 867 - Transpose Matrix
