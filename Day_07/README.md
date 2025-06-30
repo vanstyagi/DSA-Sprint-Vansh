@@ -7,4 +7,4 @@
 4. 33 - Sort an Array (Merge Sort)
 5. 153 - Search in Rotated Sorted Array
 6. 162 - Find Peak Element
-7. 4 - Median of two sorted array
+7. 4 - Median of two sorted array 
